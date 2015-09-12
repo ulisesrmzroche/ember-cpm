@@ -38,7 +38,7 @@ import ifNull from "ember-cpm/macros/if-null";
 import EmberCPM from "ember-cpm";
 ```
 
-In any other scenario, include `ember-cpm.js` after ember but before your app, and a gobal will be available:
+In any other scenario, include `ember-cpm.js` after ember but before your app, and a global will be available:
 
 ```js
 Person = Ember.Object.extend({
